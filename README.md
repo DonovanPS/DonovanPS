@@ -1,4 +1,22 @@
-# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJobmwya3JpaDF0MGtyZnp3dXJteGlwN2E2M2s1Zmh3bWwwNXAwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aThe2Z8NxSaZ1O6XVR/giphy.gif" width="150"/> Welcome to my GitHub!
+
+
+<div style="display: flex; flex-direction: column; align-items: center; position: relative;">
+  <!-- Imagen original a la izquierda -->
+  <div style="align-self: flex-start;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJobmwya3JpaDF0MGtyZnp3dXJteGlwN2E2M2s1Zmh3bWwwNXAwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aThe2Z8NxSaZ1O6XVR/giphy.gif" width="200"/>
+  </div>
+
+  <!-- Texto centrado -->
+  <h1 style="text-align: center; margin: 0;">Welcome to my GitHub!</h1>
+
+  <!-- Imagen duplicada en la derecha y reflejada -->
+  <div style="position: absolute; top: 0; right: 0;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJobmwya3JpaDF0MGtyZnp3dXJteGlwN2E2M2s1Zmh3bWwwNXAwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aThe2Z8NxSaZ1O6XVR/giphy.gif" width="200" style="transform: scaleX(-1);"/>
+  </div>
+</div>
+
+
+
 
 ## About Me
 👋 I am a **Full-Stack Developer** with experience in designing and implementing scalable and robust solutions. Passionate about creating solid architectures and continuously learning about the latest trends in the tech industry. I am committed to delivering high-quality software using **SOLID principles** and **agile methodologies**.
